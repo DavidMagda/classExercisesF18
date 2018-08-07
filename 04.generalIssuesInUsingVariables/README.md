@@ -1,13 +1,10 @@
-In this folder, modify a copy of your greetings program to work with some numeric data.
-
-It should behave as follows.
+In this folder, modify a copy of your greetings program to work with some numeric data. Use appropriate variables to store and display the name and age values that the user inputs. It should behave as follows.
 
 ```
 Enter your name: Dave
 Enter your age: 20
 Hello, Dave! How do you like being 20 years old?
 ```
-Use appropriate variables to store and display the name and age values that the user inputs.
 
 Answer the following questions, then commit your work and create a PR.
 
@@ -19,7 +16,7 @@ Answer the following questions, then commit your work and create a PR.
 
 
 
-**3. Does your toolset allow you to filter warning messages? If so, show how to turn on all warnings.***
+**3. Does your toolset allow you to filter warning messages? If so, show how to turn on all warnings.**
 
 
 
