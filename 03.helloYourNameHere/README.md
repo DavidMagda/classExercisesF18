@@ -8,3 +8,4 @@ Commit your work and create a PR for presentation in class.
 
 **1. Explain any setup that was needed to make your program run.**
 
+```Lua uses a quick "in/out" model for taking and giving input```
