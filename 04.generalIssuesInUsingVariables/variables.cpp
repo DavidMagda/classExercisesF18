@@ -4,8 +4,8 @@
 using namespace std;
 
 int main(){
-	string name;
-	int age;
+	string name = "";
+	int age = 0;
 
 	cout<< "Enter your name: ";
 	getline(cin, name);
