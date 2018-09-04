@@ -10,7 +10,7 @@ Answer the following questions, then commit your work and create a PR.
 
 **1.  Does your toolset/PL allow implicit declarations? If so, can you turn that off?**
 
-
+C++ have implicit declarations.
 
 **2. Does your PL allow you to define a variable as you declare it? Can you do this close to the variable's first use, or must it be at the top? Give an example that illustrates your answers.**
 
