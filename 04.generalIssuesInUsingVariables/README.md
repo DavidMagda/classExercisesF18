@@ -13,7 +13,11 @@ Answer the following questions, then commit your work and create a PR.
 
 
 **2. Does your PL allow you to define a variable as you declare it? Can you do this close to the variable's first use, or must it be at the top? Give an example that illustrates your answers.**
+Python does allow you to define a varible as you declare it so you can use it as long it is on top.
 
+Example:
+test = test
+print(test)
 
 
 **3. Does your toolset allow you to filter warning messages? If so, show how to turn on all warnings.**
