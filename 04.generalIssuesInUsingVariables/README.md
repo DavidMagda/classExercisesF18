@@ -33,4 +33,4 @@ The Cloud9 IDE itself does not show warnings or errors while editing. The linux 
 Perl has global and local scopes. Variables depending on the declared tag under strict, "my" "our" "state", can be at the block level up to the global level.
 
 **5. What features does your PL have for allocating memory dynamically? How is this memory returned to the system?**
-
+Perl can directly alocate memory by parameter of a varialbe. Perl automatically will return memory it uses after the method or the program exits.
