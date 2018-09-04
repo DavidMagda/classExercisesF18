@@ -31,5 +31,18 @@ C has both global and local scopes. It also allows blocks to be nested, so it us
 **5. What features does your PL have for allocating memory dynamically? How is this memory returned to the system?**
 C has malloc() and calloc() functions for allocating memory. Memory returns to the system when the process is finished by using free() and realloc() functions.
 
+int main()
+{
+    char name[20];
+    int i;
+    printf("Please enter your name: ");
+    scanf("%s", name);
+    printf("Please enter your age: ");
+    scanf("%d", &i);
+    printf( "Hello, %s! How do you like being %d years old?", name, i);
+    return 0;
+}
+
+
 
 
