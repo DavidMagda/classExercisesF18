@@ -8,11 +8,13 @@ When you have finished, commit to your working branch and create a pull request 
 
 **1. Are your toolset(s) IDEs or "old school"?**
 
+They are "old School". Vim and gcc.
 
 
 **2. Are your language implementation(s) translation, interpretation, or hybrid?**
 
-
+C++ is a translation language
 
 **3. What is the environment that you are programming? For example, are you writing native applications for an operating system? Are you embedded in a game engine, Web browser, Web server, database server, ....?**
 
+I'm writing applications for the terminal.

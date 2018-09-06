@@ -8,5 +8,5 @@ Commit your work and create a PR for presentation in class.
 
 **1. Explain any setup that was needed to make your program run.**
 
-Dowload VIM text editor and use the linux terminal to compile and run the program.
+Dowload VIM text editor and use the linux terminal to compile and run the program
 
