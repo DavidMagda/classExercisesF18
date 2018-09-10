@@ -60,8 +60,8 @@ void main()
 	printf("\t1 buffer_overflow\n");
 	printf("\t2 memory_leak\n");
 	printf("\t3 dangling_pointer\n");
-	printf("\t3 bad_memory_write\n");
-	printf("\t4 bad_memory_read\n");
+	printf("\t4 bad_memory_write\n");
+	printf("\t5 bad_memory_read\n");
 	printf("\nEnter 1-5: ");
 	scanf("%d", &choice);
 	
