@@ -2,7 +2,7 @@
  *
  * This mimics Fig. 13-1 on p. 324 of Code Complete, 2e.
  *
- * Note: C uses NUL terminated strings rather than VB's length-prefixed strings.
+ * Note: C uses zero-terminated strings rather than VB's length-prefixed strings.
  *
  */
 
@@ -28,6 +28,6 @@ void main()
 	long int *long_ptr = (long int *)ram;
 	printf("As long int:\t %ld \n", *long_ptr);
 
-	printf("As char (LF):\t %c \n", ram);
+	printf("As char (LF):\t %c \n", *ram);
 }
 
