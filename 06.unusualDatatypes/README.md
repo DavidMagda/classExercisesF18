@@ -14,7 +14,7 @@ JavaScript has extensive OO features. The underlying "object model" is quite dif
 ```
 // In JS, variables that store objects are references.
 let o1 = new SomeClass(); // o1 is now a reference to an object
-let o2 = o1; // There are now two references to the same object, NOT two objects. This is "aliasing".
+let o2 = o1; // There are now two references to the same object, NOT two objects.
 ```
 ## 3. Your PL's features related to global data and/or access routines.
 
