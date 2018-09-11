@@ -1,3 +1,4 @@
+#Open Bash Terminal here, and enter "perl helloyourname.pl" to run.
 use strict;
 use diagnostics;
 use warnings;

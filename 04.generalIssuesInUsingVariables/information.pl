@@ -1,3 +1,4 @@
+#Open Bash Terminal here, and enter "perl information.pl" to run.
 use strict;
 use warnings;
 use diagnostics;
