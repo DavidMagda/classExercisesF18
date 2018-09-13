@@ -8,6 +8,7 @@
  * They cannot begin with a number.
 * They are case sensitive
 * Variables can have the same name as functions
+* Variables must start with a sigil ($)
 
 ## 2. What naming convention(s) are typically used with your PL?
 
