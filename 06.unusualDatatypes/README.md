@@ -6,6 +6,7 @@ In the spaces below, describe the following.
 
 ## 1. Your PL's support for structures or records. Also, your PL's support for object-oriented concepts, a related idea which we will explore later on.
 
+Perl structure is 
 
 ## 2. Your PL's support for reference or pointer types.
 
