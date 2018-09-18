@@ -8,3 +8,4 @@ Commit your work and create a PR for presentation in class.
 
 **1. Explain any setup that was needed to make your program run.**
 
+setting the environment and headers for c++.
