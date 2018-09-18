@@ -1,3 +1,4 @@
+#Open Bash Terminal here, and enter "perl exercise2.pl" to run.
 use strict;
 use diagnostics;
 use warnings;
