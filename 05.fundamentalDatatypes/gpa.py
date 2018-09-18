@@ -1,3 +1,5 @@
 points= input("Enter the number of quality points earned:")
-credits= int(input('Enter the number of credit hours earned:'))
-print(("GPA:"), int(points)/int(credits))
+credits= input('Enter the number of credit hours earned:')
+if(credits=='0'):
+    print('0') 
+print('GPA:', int(points)/int(credits))
