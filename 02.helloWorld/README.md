@@ -8,11 +8,13 @@ When you have finished, commit to your working branch and create a pull request 
 
 **1. Are your toolset(s) IDEs or "old school"?**
 
-
+IDE
 
 **2. Are your language implementation(s) translation, interpretation, or hybrid?**
 
-
+hybrid. translates javacode into bytecode and the java interpreter converts the bytecode 
+into machine language that is an executable program.
 
 **3. What is the environment that you are programming? For example, are you writing native applications for an operating system? Are you embedded in a game engine, Web browser, Web server, database server, ....?**
 
+IDE (Dr Java)

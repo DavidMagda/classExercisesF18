@@ -1,16 +1,21 @@
+
 import java.util.Scanner;
 
 
-class helloNameHere {
+public class helloNameHere {
   public static void main(String args[]) {
-    Scanner philly = new Scanner(System.in);
-    System.out.println(philly.nextLine());
+    System.out.print("Enter Your Name: ");
+    Scanner nameScan = new Scanner(System.in);
+    String name = nameScan.nextLine();
+    System.out.println(name);
+    
+    System.out.print("Enter Your Age: ");
+    Scanner ageScan = new Scanner(System.in);
+    int age = ageScan.nextInt();
+    System.out.println(age);
+    
+    System.out.println("Hello, " + name + " How do you like being " + age + " years old?");
   }
 }
 
-class enterYourAge {
-  public static void sub(String args[]) {
-    Scanner willy = new Scanner(System.in);
-    System.out.println(willy.nextLine());
-  }
-}
+
