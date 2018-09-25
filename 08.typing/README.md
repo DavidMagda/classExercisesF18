@@ -2,13 +2,15 @@
 
 Using your programming toolset, create a program that contains the statements below. If necessary, modify the statements to use proper syntax for your PL.
 
-```pascal
-cats = 2;
-jobs = 3;
-reservations = 4;
+```PerlScript
+my $cats = 2;
+my $jobs = 3;
+my $reservations = 4;
 
-dollars = cats * jobs;
-if (reservations == dollars) jobs = cats / 5;
+my $dollars = $cats * $jobs;
+if ($reservations == $dollars) {
+    $jobs = $cats / 5;
+};
 ```
 
 Try to define the variables so that your PL implementation can recognize the semantic nonsense in these statements. Can your tools generate an error or warning before the program is run? At run-time?
