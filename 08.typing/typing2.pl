@@ -12,3 +12,6 @@ $var = "hello";
 chomp($var);
 print("$var\n");
 
+my @var2 = (1,1.1,"hello")
+chomp($var2);
+print("$var2\n");
