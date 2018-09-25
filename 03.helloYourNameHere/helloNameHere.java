@@ -14,7 +14,8 @@ public class helloNameHere {
     int age = ageScan.nextInt();
     System.out.println(age);
     
-    System.out.println("Hello Greg! How do you like being 23 years old?");
+    System.out.println("Hello, " + name + " How do you like being " + age + " years old?");
   }
 }
+
 
