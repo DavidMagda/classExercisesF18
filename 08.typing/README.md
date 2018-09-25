@@ -15,4 +15,5 @@ Try to define the variables so that your PL implementation can recognize the sem
 
 # Static vs. Dynamic Typing
 
-Using your PL, try to write a program that assigns each of the following values to the same variable, one after another: `1`, `1.1`, `"hello"`. If you cannot do it with a single variable, use the smallest number possible.
+Using your PL, try to write a program that assigns each of the following
+values to the same variable, one after another: `1`, `1.1`, `"hello"`. If you cannot do it with a single variable, use the smallest number possible.
