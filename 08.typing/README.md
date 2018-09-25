@@ -1,8 +1,12 @@
 # Weak vs. Strong Typing
 
-Using your programming toolset, create a program that contains the two statements below. If necessary, modify the statements to use proper syntax for your PL.
+Using your programming toolset, create a program that contains the statements below. If necessary, modify the statements to use proper syntax for your PL.
 
 ```pascal
+cats = 2;
+jobs = 3;
+reservations = 4;
+
 dollars = cats * jobs;
 if (reservations == dollars) jobs = cats / 5;
 ```
