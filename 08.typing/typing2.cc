@@ -3,11 +3,11 @@ using namespace std;
 
 int main()
 {
-    int i = 1
+    int i = 1;
     cout << i;
-    int i = 1.1
+     i = 1.1;
     cout << i;
-    int i = "hello"
+     i = "hello";
     cout << i;
     return 0;
     

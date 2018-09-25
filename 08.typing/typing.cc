@@ -14,6 +14,6 @@ if (reservations == dollars)
     jobs = cats / 5;
   
 }
-
+    cout << cats << "\n" << jobs << "\n" << reservations << "\n" << dollars;
    return 0;
 }
