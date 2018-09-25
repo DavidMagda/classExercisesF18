@@ -27,7 +27,7 @@ Use appropriate variables to perform real number calculations that produce the o
 ```
 Enter the number of quality points earned: 710
 Enter the number of credit hours earned:  253
-The grade point average is 2.8063241106719365
+2.8063241106719365
 ```
 
 You should:
