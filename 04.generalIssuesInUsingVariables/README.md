@@ -29,7 +29,9 @@ Yes c9 allows to filter warning messages.
 
 **4. What levels of scope does your PL have? See the top of p. 245 for examples from a few PLs.**
 
-
+in c++ a variable can be visible to a block, a routine, a class, and/or the whole program.
 
 **5. What features does your PL have for allocating memory dynamically? How is this memory returned to the system?**
 
+C++ uses free() function to allocate memory dynamically  
+also has two operators new and delete that perform the task of allocating and freeing the memory in a better and easier way.
