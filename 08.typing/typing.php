@@ -12,7 +12,7 @@
                 $jobs = $cats / 5;
             }
             
-            echo $cats
+            echo $jobs;
         ?>
     </body>
 </html>
