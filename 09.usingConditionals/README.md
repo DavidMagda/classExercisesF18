@@ -10,4 +10,4 @@
 |   F   | test this, T                 |    T    |
 |   F   | test this, F                 |    F    |
 
-If 'A' is false, then we have to test 'B'. If 'A' is true, then we don't have to worry about testing 'B' because we only need one value to be true in an OR table
+If 'A' is false, then we have to test 'B'. If 'A' is true, then we don't have to worry about testing 'B' because we only need one value to be true in an OR table.
