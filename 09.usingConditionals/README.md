@@ -6,6 +6,6 @@
 
 | A     | B                            | A OR B |
 | ----- | ---------------------------- | ------- |
-|       | doesn't matter, don't bother |         |
-|       |                              |         |
-|       |                              |         |
+|    T   | doesn't matter, don't bother |    T     |
+|     F  |                T              |   T      |
+|    F   |        F                      |   F      |
