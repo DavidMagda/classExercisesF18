@@ -4,8 +4,10 @@
 2. Write a small program to show that your PL does or does not do short circuit evaluation of Boolean expressions. You may use the code example given in the reading commentary as a guide.
 3. A PL can also short circuit on Boolean expressions of the form A OR B. Draw up the "shortcut" truth table for OR, below. 
 
-| A     | B                            | A OR B |
+| A     | B                            | A OR B  |
 | ----- | ---------------------------- | ------- |
-|       | doesn't matter, don't bother |         |
-|       |                              |         |
-|       |                              |         |
+|   T   | doesn't matter, don't bother |    T    |
+|   F   | test this, T                 |    T    |
+|   F   | test this, F                 |    F    |
+
+If 'A' is false, then we have to test 'B'. If 'A' is true, then we don't have to worry about testing 'B' because we only need one value to be true in an OR table
