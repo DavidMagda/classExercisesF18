@@ -15,21 +15,21 @@ if (score >= 90)
   
 }
 
-else if (score >= 80 && score < 90) 
+else if (score >= 80 ) 
 {
     
     cout << "your grade is B";
     
 }
 
-else if (score >=70 && score < 80)
+else if (score >=70 )
 {
     
     cout << "your grade is C";
     
 }
 
-else if (score >=60 && score < 70)
+else if (score >=60 )
 {
     
     cout << "your grade is D";
