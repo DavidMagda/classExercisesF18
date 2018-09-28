@@ -6,6 +6,7 @@
 
 | A     | B                            | A OR B |
 | ----- | ---------------------------- | ------- |
-|       | doesn't matter, don't bother |         |
-|       |                              |         |
-|       |                              |         |
+|  TRUE | TRUE                         |   TRUE  |
+|  TRUE | FALSE                        |   TRUE  |
+|  FALSE| TRUE                         |    TRUE |
+|  FALSE| FALSE                        |    FALSE |
