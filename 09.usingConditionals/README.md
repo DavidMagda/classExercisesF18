@@ -6,6 +6,7 @@
 
 | A     | B                            | A OR B |
 | ----- | ---------------------------- | ------- |
-|       | doesn't matter, don't bother |         |
-|       |                              |         |
-|       |                              |         |
+|T       |F Doesn't matter              | True Short Circuit    |
+|F       |T                            |True  Look both        |
+|T       |T Doesn't matter             | True Short Circuit        |
+|F	|F				|False Look both	|
